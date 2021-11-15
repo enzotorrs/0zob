@@ -1,8 +1,8 @@
 ## Olá, meu nome é Enzo Torres 👨‍💻
 <div>
   <a href="https://github.com/0zob">
-  <img height="100%" align="center" width="44%" src="https://github-readme-stats.vercel.app/api?username=0zob&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="100%" align="center" width="54%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=0zob&layout=compact&langs_count=7&theme=dark"/>
+  <img height="160px" align="center" width="44%" src="https://github-readme-stats.vercel.app/api?username=0zob&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="160px" align="center" width="54%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=0zob&layout=compact&langs_count=7&theme=dark"/>
 </div>
 </div>
 <div style="display: inline_block"><br>
