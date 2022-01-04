@@ -1,4 +1,4 @@
-## Heyy, o que faz no meu perfil?!
+## Sinta-se a vontade para contribuir
 <div>
   <a href="https://github.com/0zob">
   <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=0zob&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
